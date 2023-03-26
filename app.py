@@ -3,10 +3,6 @@ import streamlit as st
 import pandas as pd
 import streamlit as st
 
-st.title('Prueba')
-st.text_area('Escribe')
-
-
 
 
 # Read in data from the Google Sheet.
